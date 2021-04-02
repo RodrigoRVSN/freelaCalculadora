@@ -19,7 +19,7 @@ ________________________________________________________________________________
 _______________________________________________________________________________________________________________________________________
 :clapper: Aluraflix
 
-###Plataforma que ao inserir o link da imagem, exibe ela. Uso de arrays, push(), lenght(), for(), function(), endsWith(), querySelector(), innerHTML()
+### Plataforma que ao inserir o link da imagem, exibe ela. Uso de arrays, push(), lenght(), for(), function(), endsWith(), querySelector(), innerHTML()
 ____________________________________________________________________________________________________________________________________________________
 :trophy: Tabela de Classificação
 
