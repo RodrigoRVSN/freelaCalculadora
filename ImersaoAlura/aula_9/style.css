@@ -1,0 +1,150 @@
+body {
+  font-family: 'Roboto Mono', monospace;
+  background-image: url('https://i.pinimg.com/originals/a4/53/ae/a453ae44949b72efe226aaeec1c54708.jpg');
+  background-color: #000000;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+.page-title {
+  color: #ffffff;
+  margin: 5px 0;
+}
+
+button:disabled{
+  opacity: 0.3;
+}
+
+button:enabled:hover{
+  transition: 0.2s ease-in-out;
+  transform: scale(1.1);
+  cursor: pointer;
+  border: 2px solid rgb(42, 131, 20);
+}
+
+button {
+  width: 20rem;
+  background-color: rgb(199, 199, 60);
+  color: rgb(42, 131, 20);
+  padding: .8rem 1.5rem;
+  margin: 1rem 0;
+  border-radius: 20px;
+  border: none;
+  font-size: 1.5rem;
+  align-self: center;
+}
+
+h2 {
+  color: white;
+}
+
+#carta-jogador, #carta-maquina {
+  width: 360px;
+  height: 500px;
+  overflow: auto;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  margin: 0 auto;
+  display: flex;
+  align-items: flex-end;
+  position: relative;
+  background-size: 350px 300px;
+  background-repeat: no-repeat;
+  background-position-x: 10px;
+  background-position-y: 5px;
+  border-radius: 33px;
+}
+
+#carta-jogador h3 {
+  text-align: center;
+}
+
+.carta-imagem {
+  border: 1px solid black;
+  height: 100px;
+  margin: 10px;
+}
+
+.carta-imagem img {
+  width: 100%;
+  height: 100%;
+}
+
+.carta-status {
+  height: 160px;
+  margin: 2rem;
+  color: white;
+  z-index: 2;
+}
+
+.carta-status input {
+  margin: 20px 10px;
+}
+
+.carta-status p {
+  margin-bottom: 2rem;
+}
+
+.resultado-final {
+  color: white;
+  font-size: 2rem;
+  text-transform: uppercase;
+  font-weight: bolder;
+  padding: 1rem;
+  border: 2px solid black;
+  border-radius: 3rem;
+  background-color: blue;
+}
+
+.--spacing {
+  margin-left: 2.5rem;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+.wrapper {
+  margin-top: -5rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.carta-subtitle {
+  z-index: 2;
+  position: absolute;
+  top: 16px;
+  left: 37px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+#cartas {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+#placar, #quantidade-cartas {
+  color: white;
+  font-size: 1rem;
+}
+
+.carta-status p {
+  margin-bottom: 2rem;
+}
+
+#resultado{
+  width: 90vw;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}

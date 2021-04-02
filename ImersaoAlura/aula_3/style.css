@@ -1,0 +1,79 @@
+body {
+  font-family: 'Roboto Mono',monospace;
+  min-height: 600px;
+  background-image: url('https://www.wallpaperflare.com/static/307/458/509/one-piece-simple-background-monkey-d-luffy-one-wallpaper.jpg');
+  background-size: cover;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color: yellow;
+  font-size: 3rem;
+  margin: 0 0 5px;
+}
+
+.form{
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+}
+
+h2 {
+  color: rgb(253, 253, 32);
+position: absolute;
+font-size: 3rem;
+background-color: red;
+border-radius: 50px;
+font-weight:bold;
+top: 142px;
+left: calc(50% - 72.5px);
+width: 145px;
+text-align:center;
+}
+
+.page-subtitle {
+  width: 25%;
+  color: black;
+  font-size: 1.5rem;
+  margin-top: 5px;
+  border-radius: 40px;
+  text-align: center;
+  background-color: whitesmoke;
+  border: 3px yellow solid;
+}
+
+.numeroSubmit{
+  cursor: pointer;
+  border-radius: 40px;
+  font-size: 2rem;
+  height: 3rem;
+  width: 25%;
+  margin-top: 5rem;
+  background-color: whitesmoke;
+}
+
+.numeroSubmit:hover{
+  color: whitesmoke;
+  background-color: black;
+}  
+
+.page-logo {
+  width: 200px;
+}
+
+@media (max-height: 500px) {
+  body {
+    min-height:800px;
+  }
+}
