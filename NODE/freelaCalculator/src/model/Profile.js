@@ -1,7 +1,11 @@
 const Database = require('../db/config');
 
+
 module.exports = {
     async get() {
+
+        var { name } = await require('../server');
+        var { avatar } = await require('../server');
         const db = await Database();
 
         // pega todos com o * do profile
@@ -11,8 +15,8 @@ module.exports = {
 
         // retorna as informações como data
         return {
-            name: data.name,
-            avatar: data.avatar,
+            name: name,
+            avatar: avatar,
             "monthly-budget": data.monthly_budget,
             "days-per-week": data.days_per_week,
             "hours-per-day": data.hours_per_day,
