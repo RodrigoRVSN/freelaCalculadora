@@ -11,6 +11,7 @@
 # A3: responsabilidade, mvc (model, views, controllers), banco de dados
 ## 🚀 Tecnologias
 
+___________________________________________________________________________________________________________________________________________________
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -23,6 +24,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - SQLite
 - Passport (autenticação do google)
 
+___________________________________________________________________________________________________________________________________________________
+
 ## 💻 Projeto
 
 O JobsCalc é uma aplicação de estimativa de cálculo para projetos freelancer, onde é possível cadastrar e excluir jobs (projetos), obtendo uma estimativa de custo de cada job. Além disso, é possível traçar o valor da hora da pessoa que estará usando o sistema 💰
@@ -32,8 +35,9 @@ O JobsCalc é uma aplicação de estimativa de cálculo para projetos freelancer
 ### Para rodar o servidor no localhost:3000 e, se necessário resetar o banco de dados, apaga-se o arquivo database-sqlite e cria-se um novo (reset de tabelas)
 #### - npm run init-db
 
-## 📸 Imagens
 ___________________________________________________________________________________________________________________________________________________
+
+## 📸 Imagens
 
 ![image](https://user-images.githubusercontent.com/75763403/114319125-7f126680-9ae6-11eb-8e7b-04cf29769173.png)
 ___________________________________________________________________________________________________________________________________________________
