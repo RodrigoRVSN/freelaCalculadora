@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img alt="JobsCalc" title="JobsCalc" src="https://i.imgur.com/Veqm7Gh.png" width="220px" />
-</h1>
+
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -21,9 +19,12 @@
   <img alt="dev.finances" src=".github/jobscalc.png" width="100%">
 </p>
 
+![image](https://user-images.githubusercontent.com/75763403/114319125-7f126680-9ae6-11eb-8e7b-04cf29769173.png)
+___________________________________________________________________________________________________________________________________________________
 
 # A3: responsabilidade, mvc (model, views, controllers), banco de dados
 ## 🚀 Tecnologias
+
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
