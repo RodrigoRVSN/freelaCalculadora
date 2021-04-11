@@ -9,10 +9,6 @@
 
 <br>
 
-<p align="center">
-  <img alt="dev.finances" src=".github/jobscalc.png" width="100%">
-</p>
-
 ![image](https://user-images.githubusercontent.com/75763403/114319125-7f126680-9ae6-11eb-8e7b-04cf29769173.png)
 ___________________________________________________________________________________________________________________________________________________
 
