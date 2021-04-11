@@ -16,7 +16,7 @@ module.exports = {
             //empurra o body
         });
 
-        return res.redirect('/')
+        return res.redirect('/home')
     },
     async show(req, res) {
         const jobs = await Job.get();
