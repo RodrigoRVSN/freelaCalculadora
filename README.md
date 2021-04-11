@@ -8,7 +8,9 @@
 </p>
 
 ___________________________________________________________________________________________________________________________________________________
-## Nesse projeto, é colocado na página inicial uma pagina descritiva sobre o site e um botão de login para você utilizar a sua foto de perfil e seu nome de usuário do google na JobsCalc. Com isso, é direcionado para a página inicial em que são armazenados, deletados e editados os trabalhos com suas respectivas horas de trabalho e descrições. Além disso, é possível no perfil mudar o seu preço por hora e descrições como seu tempo de férias e afins.
+### Nesse projeto, é colocado na página inicial uma pagina descritiva sobre o site e um botão de login para você utilizar a sua foto de perfil e seu nome de usuário do google na JobsCalc. Com isso, é direcionado para a página inicial em que são armazenados, deletados e editados os trabalhos com suas respectivas horas de trabalho e descrições. Além disso, é possível no perfil mudar o seu preço por hora e descrições como seu tempo de férias e afins.
+
+
 ### Ao clonar o repositório, utiliza-se no terminal:
 #### - npm run dev 
 ### Para rodar o servidor no localhost:3000 e, se necessário resetar o banco de dados, apaga-se o arquivo database-sqlite e cria-se um novo (reset de tabelas)
