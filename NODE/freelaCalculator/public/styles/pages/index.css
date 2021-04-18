@@ -167,7 +167,7 @@ main {
 .card:hover {
   background: 
   linear-gradient(90deg, rgba(250, 156, 45, 0.1) 0.45%, rgba(252, 253, 255, 0.1) 31.4%),
-    white;
+    var(--color-card-background);
 }
 
 .card::before {
@@ -202,7 +202,7 @@ main {
   font-size: 0.75rem; /* 12px of 16px root*/
   text-transform: uppercase;
 
-  color: var(--color-card-label);
+  color: var(--color-card-title);
 }
 
 .progress .column p {
@@ -212,7 +212,7 @@ main {
 .column.id {
   font-family: IBM Plex Sans;
   font-weight: 600;
-  color: var(--color-card-label);
+  color: var(--color-card-title);
 }
 
 .column.name {

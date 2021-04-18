@@ -24,7 +24,7 @@
   --color-card-label: #BFBFCC;
   --color-card-content: #787880;
 
-  --color-cancel: #E1E3E5;
+  --color-cancel: #f6adaa;
   --color-delete: #EB3B35; 
   --color-save: #36B336;
   
@@ -35,6 +35,36 @@
 
   --color-header-inner-title: var(--color-card-label)
 
+}
+
+.dark-mode{
+  --color-background: #101055;
+  --color-text: #080807;
+
+  --color-primary: #9b6524;
+  --color-secondary: #FA9C2D;
+  --color-secondary-hover: #080807;
+  
+  --color-input-background: #080807;
+  --color-button-text: #080807;
+  --color-hairline-in-dark: #E1E3E5;
+  --color-hairline-in-light: #4F4F5B;
+
+  --color-card-background: #1c1c50;
+  --color-card-title: #FA9C2D;
+  --color-card-label: #252c55;
+  --color-card-content: #ffb560;
+
+  --color-cancel: #f6adaa;
+  --color-delete: #EB3B35; 
+  --color-save: #36B336;
+  
+  --color-badge-progress-text: var(--color-save);
+  --color-badge-progress-background: #E8F8E8;
+  --color-badge-done-text: var(--color-delete);
+  --color-badge-done-background:#FAECEB;
+
+  --color-header-inner-title: var(--color-card-label)
 }
 
 /* user-agent font-size is 16px, let's make it responsive */
