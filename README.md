@@ -4,6 +4,7 @@
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-novos">Novos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-imagens">Imagens</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
@@ -37,6 +38,18 @@ O JobsCalc é uma aplicação de estimativa de cálculo para projetos freelancer
 #### - npm run init-db
 
 ___________________________________________________________________________________________________________________________________________________
+## ➕ Novos 
+
+### Autenticação com o Google!
+![image](https://user-images.githubusercontent.com/75763403/114319125-7f126680-9ae6-11eb-8e7b-04cf29769173.png)
+___________________________________________________________________________________________________________________________________________________
+![image](https://user-images.githubusercontent.com/75763403/114319254-1d063100-9ae7-11eb-8e98-8b56d04960e7.png)
+___________________________________________________________________________________________________________________________________________________
+![image](https://user-images.githubusercontent.com/75763403/114319616-918d9f80-9ae8-11eb-9081-0ffad65d4482.png)
+___________________________________________________________________________________________________________________________________________________
+### Dark- mode!
+
+![image](https://user-images.githubusercontent.com/75763403/115133404-54d91100-9fde-11eb-8eec97ed5a87f76e.png)_________________________________________________________________________________________________________________________________________
 
 ## 📸 Imagens
 
